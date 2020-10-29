@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>AvPr - Guided Capstone Project Report</h1>
 <h2>Big Mountain Resort Recommendations</h2>
 <h3><strong>Problem Statement:</strong></h3>
@@ -27,10 +28,22 @@
 <p><img src="images/RunsClosed.png" alt="Runs" width="600" height="400"/></p>
 <ol>
 <li>Closing 10 runs could reduce the support for the ticket on $1.75 us each, $3.062.500 us all season.&nbsp;</li>
+=======
+<h1>Guided Capstone Project Report</h1>
+<h2>Big Mountain Resort Recommendations</h2>
+<p>Big Mountain Resort charges $81us per ticket, and each visitor buys on average 5-day tickets ($ 405 us), and with the numbers of visitors provided (350.000) the annual revenue will be $ 141.350.000 us. The model supports an increase of ~13us - $94 per ticket, increasing the revenue by $23.150.000 per season.</p>
+<h3>Summary</h3>
+<p>Following the business scenarios and the conclusions:</p>
+<ol>
+<li>Closing 10 runs could reduce the support for the ticket on $1.75 us each, $3.062.500 us all season.</li>
+>>>>>>> 92fca778085b91c45d3bbab9779a8f7bd7c272fd
 <li>Incrementing one run, one chair and add 150ft to vertical drop will increase in $1.99 us the ticket - $82.99 us and the revenue on&nbsp;$3.474.638 us.</li>
 <li>Adding 2 acres of snow to the last scenario will not show any change to the revenue.</li>
 <li>Increasing the longest run by 0.2 miles to boast 3.5 miles length, will require 4 more acres of snowmaking coverage and this will not make a difference in the ticket price/revenue.</li>
 </ol>
 <p>The new additional chair will add $1,540,000 operating costs this season, supported with the business scenario 2 the revenue will not be affected.</p>
+<<<<<<< HEAD
 <h3>Limitations</h3>
 <p>This model presented some limitations: the ticket price was the only feature with costs evaluated, maybe the selection of the features could be more accurate if the operating costs were provided. Big Mountain resort belongs to the resorts with good/best facilities overall, having a deep knowledge of how the operational costs are related with the facilities certainly will improve the model results and questions that are not solved yet.</p>
+=======
+>>>>>>> 92fca778085b91c45d3bbab9779a8f7bd7c272fd
