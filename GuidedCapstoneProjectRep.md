@@ -34,7 +34,6 @@
 <p>Following the business scenarios and the conclusions:</p>
 <ol>
 <li>Closing 10 runs could reduce the support for the ticket on $1.75 us each, $3.062.500 us all season.</li>
->>>>>>> 92fca778085b91c45d3bbab9779a8f7bd7c272fd
 <li>Incrementing one run, one chair and add 150ft to vertical drop will increase in $1.99 us the ticket - $82.99 us and the revenue on&nbsp;$3.474.638 us.</li>
 <li>Adding 2 acres of snow to the last scenario will not show any change to the revenue.</li>
 <li>Increasing the longest run by 0.2 miles to boast 3.5 miles length, will require 4 more acres of snowmaking coverage and this will not make a difference in the ticket price/revenue.</li>
