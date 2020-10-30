@@ -23,7 +23,6 @@
 </ul>
 <h3><strong>Summary</strong></h3>
 <p>Big Mountain Resort charges $81us per ticket, and each visitor buys on average 5-day tickets ($ 405 us), and with the numbers of visitors provided (350.000) the annual revenue will be $ 141.350.000 us. The model supports an increase of ~13us - $94 per ticket, increasing the revenue by $23.150.000 per season.</p>
-<p>Following; the business scenarios and conclusions:</p>
 <p><img src="images/RunsClosed.png" alt="Runs" width="600" height="400"/></p>
 <ol>
 <p>Following the business scenarios and the conclusions:</p>
